@@ -10,4 +10,5 @@ public class Base {
 
     final WebDriver driver = browserFactory.startBrowser("edge", "https://amendmentsweb-sit-autogen.telesuredigital.co.za/login");
     LoginPage loginpage = PageFactory.initElements(driver, LoginPage.class);
+
 }
