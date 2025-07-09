@@ -12,7 +12,7 @@ target/
 *.iml
 *.ipr
 Screenshots/
-Reports
+Reports/
 
 ### Eclipse ###
 .apt_generated
@@ -22,7 +22,7 @@ Reports
 .settings
 .springBeans
 .sts4-cache
-test-output
+test-output/
 
 ### NetBeans ###
 /nbproject/private/
